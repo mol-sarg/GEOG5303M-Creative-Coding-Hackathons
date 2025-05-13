@@ -27,3 +27,5 @@ Grade: 74
 This hackathon required us to create a dashboard to help partners easily evaluate water quality classifications and bacteria levels based on certain factors. We cleaned and preprocessed the data given to us by the Environmental Agency, exploring relationships using Spearman's correlations, wind rose plots, and regression models between factors such as wind direction, UV exposure, tidal movement, and seabird presence. 
 
 Grade: TBC
+
+All names and student IDs have been removed from notebook files and powerpoints for anonymity.
