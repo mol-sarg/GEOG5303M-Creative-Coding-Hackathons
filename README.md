@@ -1,5 +1,5 @@
 # GEOG5303M-Creative-Coding-Hackathons
-This repository contains five data science hackathons completed during my Masters studies, developed collaboratively in teams and with an industry partner. Each project addressed real-world urban issues using spatial data science, statistical modelling, and creative coding techniques. 
+This repository contains five data science hackathons completed during my Masters studies, developed collaboratively in teams and with an industry partner. Each project addressed real-world urban issues using spatial data science, statistical modelling, and creative coding techniques. We had a week to tackle a challenge and create a presentation which was presented the week after to the class and industry partners.
 
 ## Hackathon Projects
 
